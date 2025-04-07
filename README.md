@@ -5,3 +5,5 @@
 [[977]SquaresOfASortedArray.py](src/leetcode/editor/en/SquaresOfASortedArray.py)</br>
 [[1004]MaxConsecutiveOnesIII.py](src/leetcode/editor/en/MaxConsecutiveOnesIII.py)</br>
 [[1480]RunningSumOf1dArray.py](src/leetcode/editor/en/RunningSumOf1dArray.py)</br>
+##hash
+[[1832]CheckIfTheSentenceIsPangram.py](src/leetcode/editor/en/CheckIfTheSentenceIsPangram.py)
