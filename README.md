@@ -7,3 +7,6 @@
 [[1480]RunningSumOf1dArray.py](src/leetcode/editor/en/RunningSumOf1dArray.py)</br>
 ##hash
 [[1832]CheckIfTheSentenceIsPangram.py](src/leetcode/editor/en/CheckIfTheSentenceIsPangram.py)
+
+## trees
+[[111]MinimumDepthOfBinaryTree.py](src/leetcode/editor/en/%5B111%5DMinimumDepthOfBinaryTree.py)
